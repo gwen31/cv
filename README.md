@@ -18,7 +18,7 @@ Je vous présente mon cv réalisé avec react.js et sass
 
 ## page Contact :
 
-[Alt image](public/assets/cv5.png)
+![Alt image](public/assets/cv5.png)
 
 ## Version mobile : 
 
