@@ -2,21 +2,21 @@
 
 Je vous présente mon cv réalisé avec react.js et sass
 
-## page Acceuil :
+## Page Acceuil :
 
 ![Alt image](public/assets/cv1.png)
 
-## page Compétences : 
+## Page Compétences : 
 
 ![Alt image](public/assets/cv2.png)
 
-## page Portfolio : 
+## Page Portfolio : 
 
 ![Alt image](public/assets/cv3.png)
 
 ![Alt image](public/assets/cv4.png)
 
-## page Contact :
+## Page Contact :
 
 ![Alt image](public/assets/cv5.png)
 
