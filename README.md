@@ -4,7 +4,7 @@ Je vous présente mon cv réalisé avec react.js et sass
 
 ## page Acceuil :
 
-![Alt image](./assets/cv1.png)
+![Alt image](public/assets/cv1.png)
 
 ## page Compétences : 
 
