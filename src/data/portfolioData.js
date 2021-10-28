@@ -49,11 +49,11 @@ export const portfolioData = [
     },
     {
       id: 6,
-      name: 'dolorset.fr',
+      name: 'VoyageCampingCar',
       languages: ['javascript','php','css'],
       languagesIcons: ['fab fa-js','fab fa-php','fab fa-css3-alt'],
       source: 'http://www.github.com',
-      info: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus laboriosam aut nihil? Possimus, id facilis dignissimos repudiandae modi dolorum ea accusantium, veritatis debitis odio eveniet quos incidunt eaque nemo eius perferendis consequatur? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus laboriosam aut nihil? Possimus, id facilis dignissimos repudiandae modi dolorum ea accusantium.',
-      picture: './media/project3.JPG'
+      info: "C'est un site qui présente nos voyages, nos visites de la France en camping-car. Trier par département, on peut y découvrir les photos prise paar moi même et quelque explication sur le lieux.",
+      picture: './media/project3.png'
     },
   ]
