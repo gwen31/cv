@@ -49,10 +49,10 @@ export const portfolioData = [
     },
     {
       id: 6,
-      name: 'VoyageCampingCar',
+      name: 'VoyagesCampingCar.fr',
       languages: ['javascript','php','css'],
       languagesIcons: ['fab fa-js','fab fa-php','fab fa-css3-alt'],
-      source: 'http://www.github.com',
+      source: 'https://github.com/gwen31/',
       info: "C'est un site qui présente nos voyages, nos visites de la France en camping-car. Trier par département, on peut y découvrir les photos prise paar moi même et quelque explication sur le lieux.",
       picture: './media/project3.png'
     },
