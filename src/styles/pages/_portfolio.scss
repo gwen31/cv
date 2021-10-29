@@ -219,7 +219,7 @@
         }
       }
       .infosContent {
-        width: 100% !important;
+        width: 80% !important;
       }
     }
   }
@@ -247,4 +247,14 @@
         }
       }
     }
+    .infosContent {
+      width: 90% !important;
+      top: 90% !important;
+    }
+    .head {
+      display: flex;
+      flex-wrap: wrap;
+      margin: 1rem 0;
+    }
   }
+  
