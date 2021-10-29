@@ -1,4 +1,3 @@
-//import React, { useState} from 'react';
 import { Component } from 'react';
 import { portfolioData } from '../../data/portfolioData';
 import Project from './Project';
@@ -61,54 +60,4 @@ export default class projectList extends Component {
         )
     }
 }
-
-/*const ProjectList = () => {
-    const [list, setList] = useState({portfolioData});
-    const [radio, setRadio] = useState([]);
-    const radios =  [
-        {id: 1, value: "javaScript"},
-        {id: 1, value: "css"},
-        {id: 1, value: "react"},
-        {id: 1, value: "php"},
-    ]
-   
-
-    return (
-        <div className="portfolioContent">
-                <ul className="radioDisplay">
-                    {
-                       radios.map((radio) => {
-                           return (
-                               <li key={radio.id}>
-                                   <input
-                                    type="radio"
-                                    name="radio"
-                                    checked={radio.value === selectedRadio}
-                                    value={radio.value}
-                                    id={radio.value}
-                                    onChange={handleRadio}
-                                    />
-                                    <label htmlFor={radio.value}>{radio.value}</label>
-                               </li>
-                           )
-                       }) 
-                    }
-                </ul>
-
-                <div className="projects">
-                    {
-                        portfolioData.map(item => {
-                            return (
-                                <Project 
-                                    key={item.id}
-                                    item={item}/>
-                            )
-                        })
-                    }
-        </div>
-        </div>
-    )
-}
-
-export default ProjectList*/
 
